@@ -1,5 +1,5 @@
 let nomeH='Fanu Boy'
-let xp=10.001
+let xp=1000
 
 if(xp<=1.000){
     console.log('O Héroi de nome'+' '+nomeH+' '+'está no nível de Ferro.')
